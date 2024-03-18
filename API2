@@ -12,7 +12,7 @@ const investInBajajFinserv = async (accountNumber, currentPrice) => {
       company: 'Bajaj Finserv',
       currentPrice: currentPrice,
       accountNumber: accountNumber,
-      githubRepoLink: 'https://github.com/Vishdkhurana/api-bajab'
+      githubRepoLink: 'https://github.com/MAYANKARORA0132/API1'
     }, {
       headers: headers
     });
